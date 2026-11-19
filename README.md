@@ -1,5 +1,6 @@
 # Welcome to your Expo app 👋
 
+This is Desain https://www.figma.com/design/2fLQ6or1xTe2aolALANJx4/Dongeng.?node-id=1-103&t=KaRu7NaUYU63PAor-1
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
